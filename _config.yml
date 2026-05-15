@@ -1,9 +1,6 @@
-title: "AraGenre 2026"
+﻿title: "AraGenre" 2026"
+description: "ArabicNLP 2026 Shared Task"
+url: "https://ezzini.github.io"
+baseurl: "/AraGenre2026"
 theme: jekyll-theme-cayman
-github:
-  is_project_page: true
-  repository_url: "https://forms.gle/placeholder"
-  repository_name: "Register Now"
-markdown:
-  kramdown:
-    auto_ids: false
+markdown: kramdown
