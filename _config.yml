@@ -1,0 +1,9 @@
+title: "AraGenre 2026"
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: "https://forms.gle/placeholder"
+  repository_name: "Register Now"
+markdown:
+  kramdown:
+    auto_ids: false
